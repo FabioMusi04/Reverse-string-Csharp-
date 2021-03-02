@@ -1,0 +1,16 @@
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\obj\Debug\net5.0\c# Reverse text vscode.csprojAssemblyReference.cache
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\obj\Debug\net5.0\c# Reverse text vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\obj\Debug\net5.0\c# Reverse text vscode.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\obj\Debug\net5.0\c# Reverse text vscode.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\obj\Debug\net5.0\c# Reverse text vscode.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\bin\Debug\net5.0\c# Reverse text vscode.exe
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\bin\Debug\net5.0\c# Reverse text vscode.deps.json
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\bin\Debug\net5.0\c# Reverse text vscode.runtimeconfig.json
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\bin\Debug\net5.0\c# Reverse text vscode.runtimeconfig.dev.json
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\bin\Debug\net5.0\c# Reverse text vscode.dll
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\bin\Debug\net5.0\ref\c# Reverse text vscode.dll
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\bin\Debug\net5.0\c# Reverse text vscode.pdb
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\obj\Debug\net5.0\c# Reverse text vscode.dll
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\obj\Debug\net5.0\ref\c# Reverse text vscode.dll
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\obj\Debug\net5.0\c# Reverse text vscode.pdb
+C:\Users\fabio\Desktop\Vscode c#\c# Reverse text vscode\obj\Debug\net5.0\c# Reverse text vscode.genruntimeconfig.cache
